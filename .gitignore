@@ -1,0 +1,5 @@
+# build output (distributed via GitHub Releases)
+*.exe
+# per-user files created at runtime
+settings.ini
+log.csv
